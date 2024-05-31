@@ -1,0 +1,44 @@
+body{
+    font-family: 'Montserrat';
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+.container-flex {
+    flex: 1;
+}
+
+.bg-mycolor{
+    background: #f7e98e;
+
+}
+.bg-navcolor{
+    background: #daa520;
+
+}
+.text-footer{
+    color: rgb(7, 3, 89);
+}
+
+
+/*Navbar*/
+.navbar{
+    background: #daa520;
+}
+
+/*Query form*/
+.form-label, .form-control {
+    font-size: 0.875rem; /* Smaller font size */
+    font-weight: 500;
+}
+.card-header {
+    padding: 0.5rem 1rem; /* Smaller padding */
+}
+.card-body {
+    padding: 1rem; /* Smaller padding */
+}
+.btn {
+    font-size: 0.875rem; /* Smaller font size for button */
+}
+
+
