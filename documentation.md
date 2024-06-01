@@ -1,4 +1,4 @@
-Follow these steps for the backend:
+#Follow these steps for the backend:
 
 1.Install Node.js if you have not installed yet - Follow official website instructions
 
@@ -12,7 +12,7 @@ Follow these steps for the backend:
 
 3. Create a server.js file in you project folder
 
-Working with server.js:
+#Working with server.js:
 
 1. get all the necessary modules in server.js
 var express =require("express")    
