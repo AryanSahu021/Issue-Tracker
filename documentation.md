@@ -33,7 +33,7 @@ require is used to get the specific modules
 
 7. We can store the login details in our Mongodb Database by simply making a collection.
 
-#Connect with database
+# Connect with database
 1. Install mongodb compass as it provides the UI to visualise the data in the database
 2. Connect to the local server in the compass;
 3. Now create a new database  in my case I have created with name IIT-Gandhinagar
