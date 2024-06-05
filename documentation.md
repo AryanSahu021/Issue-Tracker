@@ -33,6 +33,17 @@ require is used to get the specific modules
 
 7. We can store the login details in our Mongodb Database by simply making a collection.
 
+#Connect with database
+1. Install mongodb compass as it provides the UI to visualise the data in the database
+2. Connect to the local server in the compass;
+3. Now create a new database  in my case I have created with name IIT-Gandhinagar
+4. Create a new collection in that dataset  in my case it's Queries
+5. Now use the server.js code. Upon successful run of code and filling the sign up entries you will be able to see the dataset in your mongodb compass.
+6. The code in the server.js to connect with mongodb is as follow
+7. It first connect with the mongodb after that connect to the client.
+8. Now under that client, connect to the database and collection in which you want to store the data.
+9. Now insert the data using InsertOne to add one data. If you have multiple such data you can simply use InsertMany.
+
 
 
 
